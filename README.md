@@ -76,8 +76,6 @@ I edit cinematic **Videos** and **lyrical typography** in After Effects, and I'm
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak180607&theme=default" />
 </p>
