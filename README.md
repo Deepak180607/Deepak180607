@@ -77,8 +77,8 @@ I edit cinematic **Videos** and **lyrical typography** in After Effects, and I'm
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](link)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([link](https://www.linkedin.com/in/deepak-reddy-31a629391/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)]([link](https://www.kaggle.com/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](kausideepu12@gmail.com)
 
 <p align="center"><i>"Data tells the story. Motion makes it unforgettable."</i></p>
