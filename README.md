@@ -64,15 +64,7 @@ I edit cinematic **videos** and **lyrical typography** in After Effects, and I'm
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak180607&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepak180607&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Deepak180607" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/Deepak180607/Deepak180607/output/github-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
