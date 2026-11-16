@@ -52,17 +52,17 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Titanic Survival Prediction](link) | EDA and ML model for the Kaggle Titanic competition | Python, pandas, scikit-learn |
-| [Project 2](link) | One-line description | Tech used |
-| [Project 3](link) | One-line description | Tech used |
+| [House Price Prediction Model](https://github.com/Deepak180607/Housing-Price-Predictor) | EDA and ML model for the Kaggle California Housing | Python, pandas, scikit-learn |
+| [Amazon vs Flipkart Price Analyzer]([link](https://github.com/Deepak180607/Amazon-vs-Flipkart-laptop-price-rating)) | An end-to-end data pipeline that scrapes gaming laptop data, cleans and analyzes it, and generates high-quality comparison visualizations. | Python, Selenium, BeautifulSoup, Requests, Pandas, Matplotlib & Seaborn |
+| [ecommerce price Analyzer]([link](https://github.com/Deepak180607/ecommerce-laptop-price-analyzer)) | Scrapes, cleans and visualizes gaming laptop data| Python, BeautifulSoup, Requests, Pandas, Matplotlib |
 
 ---
 
 ## 🎬 Creative Work
 
-I edit cinematic **anime AMVs** and **lyrical typography** in After Effects, and I'm exploring travel content and motion graphics.
+I edit cinematic **Videos** and **lyrical typography** in After Effects, and I'm exploring travel content and motion graphics.
 
-[Portfolio / Fiverr](link) · [YouTube / Instagram](link)
+[GDRIVE]([link](https://drive.google.com/drive/folders/1WoLFC94yXQOAU616LWOgX771tnEtUDCP?usp=drive_link)) 
 
 ---
 
