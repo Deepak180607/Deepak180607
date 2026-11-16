@@ -15,7 +15,7 @@
 
 - 🎓 Studying Data Science at the **Centre for Data Science, ITER (SOA University)**
 - 📊 Building my data science portfolio on **Kaggle** and GitHub
-- 🎞️ Video editor and motion designer on the side (anime AMVs, lyrical typography, travel content)
+- 🎞️ Video editor and motion designer on the side (Highspeed Editss, lyrical typography)
 - 🎯 Looking for **internships, hackathons, and freelance projects**
 - 📚 Currently learning: machine learning, data analysis, and visualization
 
