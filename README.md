@@ -41,36 +41,23 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
 </p>
 
-**Creative**
-
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
-
 ---
 
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [House Price Prediction Model](https://github.com/Deepak180607/Housing-Price-Predictor) | EDA and ML model for the Kaggle California Housing | Python, pandas, scikit-learn |
-| [Amazon vs Flipkart Price Analyzer]([link](https://github.com/Deepak180607/Amazon-vs-Flipkart-laptop-price-rating)) | An end-to-end data pipeline that scrapes gaming laptop data, cleans and analyzes it, and generates high-quality comparison visualizations. | Python, Selenium, BeautifulSoup, Requests, Pandas, Matplotlib & Seaborn |
-| [ecommerce price Analyzer]([link](https://github.com/Deepak180607/ecommerce-laptop-price-analyzer)) | Scrapes, cleans and visualizes gaming laptop data| Python, BeautifulSoup, Requests, Pandas, Matplotlib |
+| [House Price Prediction Model](https://github.com/Deepak180607/Housing-Price-Predictor) | EDA and ML model for the Kaggle California Housing dataset | Python, pandas, scikit-learn |
+| [Amazon vs Flipkart Price Analyzer](https://github.com/Deepak180607/Amazon-vs-Flipkart-laptop-price-rating) | End-to-end pipeline that scrapes gaming laptop data, cleans and analyzes it, and generates comparison visualizations | Python, Selenium, BeautifulSoup, Requests, pandas, Matplotlib, Seaborn |
+| [E-commerce Price Analyzer](https://github.com/Deepak180607/ecommerce-laptop-price-analyzer) | Scrapes, cleans and visualizes gaming laptop data | Python, BeautifulSoup, Requests, pandas, Matplotlib |
 
 ---
 
 ## 🎬 Creative Work
 
-I edit cinematic **Videos** and **lyrical typography** in After Effects, and I'm exploring travel content and motion graphics.
+I edit cinematic **videos** and **lyrical typography** in After Effects, and I'm exploring travel content and motion graphics.
 
-[GDRIVE]([link](https://drive.google.com/drive/folders/1WoLFC94yXQOAU616LWOgX771tnEtUDCP?usp=drive_link)) 
+[📂 View my work on Google Drive](https://drive.google.com/drive/folders/1WoLFC94yXQOAU616LWOgX771tnEtUDCP?usp=drive_link)
 
 ---
 
@@ -92,8 +79,8 @@ I edit cinematic **Videos** and **lyrical typography** in After Effects, and I'm
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([link](https://www.linkedin.com/in/deepak-reddy-31a629391/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)]([link](https://www.kaggle.com/))
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](kausideepu12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-reddy-31a629391/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR-KAGGLE-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kausideepu12@gmail.com)
 
 <p align="center"><i>"Data tells the story. Motion makes it unforgettable."</i></p>
