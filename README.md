@@ -64,9 +64,11 @@ I edit cinematic **videos** and **lyrical typography** in After Effects, and I'm
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak180607/Deepak180607/output/github-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepak180607/Deepak180607/output/github-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Deepak180607/Deepak180607/output/github-snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## 📫 Let's Connect
