@@ -21,17 +21,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Programming & Data**
+**Programming & Data Science**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,pandas,numpy,sklearn,jupyter&perline=6" />
+</p>
+
+**Creative**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps&perline=6" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
+</p>
 
 **Creative**
 
